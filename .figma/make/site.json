@@ -1,0 +1,10 @@
+{
+  "description": "Connects single-parent families through a supportive mobile community to share experiences, find peers, and access emotional support in a respectful space.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

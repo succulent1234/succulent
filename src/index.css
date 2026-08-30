@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Nanum+Myeongjo:wght@700;800&display=swap');
+@import 'tailwindcss';
+
+@theme { --font-sans: "Gowun Dodum", sans-serif; --font-display: "Nanum Myeongjo", serif; }
+:root { color: #29322d; background: #f7f3ea; font-family: "Gowun Dodum", sans-serif; }
+body { margin: 0; min-width: 320px; background: #f7f3ea; }
+button, input, textarea, select { font: inherit; }
+button { cursor: pointer; }
+::selection { background: #cfe5d6; }
